@@ -3,7 +3,9 @@
 A quick-start project that helps you to enable PDF and Excel exporting in the DataGrid and export grid data to a PDF or Excel document. This project also contains a code snippet for the different customization options available for the PDF and Excel exportation. 
 
 Documentation:
+
 PDF export: https://ej2.syncfusion.com/vue/documentation/grid/pdf-export/
+
 Excel export: https://ej2.syncfusion.com/vue/documentation/grid/excel-exporting/
 
 Online examples: 
